@@ -1,6 +1,8 @@
-print("hello world")
-print("Hello Git")
-a=5
-b=7
-c=a+b
-print(c)
+a=0.0
+print(type(a))
+b = 2+5j
+print(type(b))
+c=['fbe', 'ergerg']
+print(type(c))
+d=('fbe', 'ergerg')
+print(type(d))
